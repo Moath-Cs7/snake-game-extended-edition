@@ -2,8 +2,8 @@
 
 A classic Snake game built with Python's `turtle` module — but with a twist: special food abilities, a chasing enemy, and persistent high scores.
 
-![Game-photo1](Game.png)
-![Game-photo2](Game-Over.png)
+![Game-photo1](assests/Game.png)
+![Game-photo2](assests/Game-Over.png)
 
 ## ✨ Features
 
@@ -35,8 +35,8 @@ A classic Snake game built with Python's `turtle` module — but with a twist: s
 ## ▶️ How to run
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Moath-Cs7/snake-game-extended-edition.git
+cd snake-game-extended-edition
 python main.py
 ```
 
